@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 13 12:19:22 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0169-77d9-e256-0000008c0e18 
+on database directory V:\My Documents\NetBeansProjects\AddressBookDAOFlyGUI\addressbookdb with class loader sun.misc.Launcher$AppClassLoader@1c7c054 
+Loaded from file:/V:/My%20Documents/NetBeansProjects/AddressBookDAOFlyGUI/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=V:\My Documents\NetBeansProjects\AddressBookDAOFlyGUI
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

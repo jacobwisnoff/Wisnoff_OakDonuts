@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Wisnoff_OakDonuts/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Wisnoff_OakDonuts/lib/flyway-core-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Wisnoff_OakDonuts/lib/derbynet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Wisnoff_OakDonuts/lib/derbyclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
